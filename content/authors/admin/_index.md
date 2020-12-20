@@ -47,7 +47,7 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: twitter
-  icon_pack: fas
+  icon_pack: fab
   link: https://twitter.com/elwinlhq
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
@@ -78,8 +78,6 @@ highlight_name: false
 
 Elwin Huaman is a PhD student at the University of Innsbruck. His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
 
-He leads the QUIPU: Quechua language-based Knowledge Graph project, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He leads the QUIPU: Quechua language-based Knowledge Graph project, which is a knowledge graph that preserves as much as possible all the Quechua knowledge in a structured format.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
