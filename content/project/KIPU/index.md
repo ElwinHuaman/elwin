@@ -1,8 +1,8 @@
 ---
-title: "KIPU: Knowledge that Inspires People like U"
-summary: An example of using the in-built project page.
+title: "QUIPU [Quechua Language Knowledge Graph]"
+summary: "With QUIPU we are trying to create a knowledge graph that can preserve as much as possible all the Quechua knowledge in a structured format."
 tags: ["Research", "Quechua"]
-date: "2019-09-27T00:00:00Z"
+date: "2019-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +18,7 @@ image:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://www.slideshare.net/elwinlhq/kipu-knowledge-that-inspires-people-like-you-sustainable-travel"
+url_slides: "https://www.slideshare.net/elwinlhq/quipu-quechua-knowledge-graph-pilot-building-virtual-assistants-based-on-quechua-language"
 url_video: ""
 
 # Slides (optional).
@@ -29,9 +29,8 @@ url_video: ""
 slides: ""
 ---
 
-Imagine if we could speed up time in the fight against climate change:
-KIPU is a knowledge engine, chatbot, web search engine and App that stores, evaluates, curates, and represents sustainable destinations.
+Quechua has been spoken in various countries of South America since the Inca empire was founded (i.e. more than 600 years ago). Nowadays, more than 12 million people speak Quechua around the world and the recent census in Peru has shown an increasing 0.4% in favor of Quechua speakers.
 
-see more in [KIPU: Knowledge that Inspires People like U](https://www.slideshare.net/elwinlhq/kipu-knowledge-that-inspires-people-like-you-sustainable-travel).
+With [QUIPU](https://www.slideshare.net/elwinlhq/quipu-quechua-knowledge-graph-pilot-building-virtual-assistants-based-on-quechua-language) we are trying to create a knowledge graph that can preserve as much as possible all the Quechua knowledge in a structured format. Which has a lot of advantages. For instance, it is possible to create a dictionary in Quechua language using the current [Quechua wiktionary](https://qu.wiktionary.org/), create multimedia content using [Quechua-Wikipedia](https://qu.wikipedia.org/), as well as, it is possible to use all those structured data for creating chatbots with [DialogFlow](https://dialogflow.com/) and help old people to keep updated regarding new technologies.
 
-KIPU es un motor de conocimiento (knowledge graph), chatbot (Kipu), buscador web (Smart Travel) y App (KipuLab) que almacena, evalúa, cura, y representa destinos sostenibles.
+Of course, it is not a straight forward task, but there are possibilities to save our culture and bring equality right to indigenous communities.
