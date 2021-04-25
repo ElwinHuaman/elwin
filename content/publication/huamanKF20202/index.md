@@ -3,7 +3,7 @@
 
 title: "Duplication Detection in Knowledge Graphs: Literature and Tools"
 authors: ["Elwin Huaman", "Elias Kärle", "Dieter Fensel"]
-date: 2020-02-14T01:57:51+01:00
+date: 2020-04-14T01:57:51+01:00
 url: "https://arxiv.org/abs/2004.08257"
 
 # Schedule page publish date (NOT publication's date).
