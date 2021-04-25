@@ -12,6 +12,8 @@ authors:
   - Umutcan Şimşek
   - Ioan Toma
   - Alex Wahler
+doi: https://doi.org/10.1007/978-3-030-05324-6_22-1
+publication: Handbook of E-Tourism
 abstract: "Smart speakers such as Alexa and later Google Home have introduced
   Artificial Intelligence (AI) into millions, soon to be billions of households,
   making AI an everyday experience. These new communication channels present a
