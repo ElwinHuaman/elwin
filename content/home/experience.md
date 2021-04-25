@@ -22,7 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: "Researcher"
+    company: "Semantic Technology Institute Innsbruck, University of Innsbruck"
+    company_url: "https://sti2.at"
+    location: "Innsbruck, Austria"
+    date_start: '2018-10-01'
+    date_end: ''
+    description: I research semantic web technologies within the academy and industry. My main interest is focused on Knowledge Graph Curation, which involves the assessment, cleaning, and enrichment of Knowledge Graphs.
+
+  - title: Business Development Consultant
     company: Information Center and Development RIC Bela Krajina
     company_url: ''
     location: Crnomelj, Slovenia
