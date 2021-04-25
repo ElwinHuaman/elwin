@@ -4,7 +4,6 @@
 title: "Knowledge Graph Validation"
 authors: ["Elwin Huaman", "Elias Kärle", "Dieter Fensel"]
 date: 2020-02-14T01:57:51+01:00
-url: "https://arxiv.org/abs/2005.01389"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-03-14T01:57:51+01:00
