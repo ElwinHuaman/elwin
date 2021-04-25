@@ -1,6 +1,7 @@
 ---
 title: "KIPU: Knowledge that Inspires People like U"
 summary: "KIPU is a knowledge engine, chatbot, web search engine and App that stores, evaluates, curates, and represents sustainable destinations."
+authors: ["admin"]
 tags: ["Research", "Quechua"]
 date: "2019-09-27T00:00:00Z"
 

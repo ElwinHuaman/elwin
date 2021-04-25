@@ -1,6 +1,7 @@
 ---
 title: "Quechua Experience"
 summary: "Quechua Experience are activities designed and led by inspiring Quechua families. They go beyond typical tourism by immersing guests in true Quechua family traditions. It’s an opportunity for anyone to learn about their culture, traditions, or expertise without barriers."
+authors: ["admin"]
 tags: ["Research", "Quechua"]
 date: "2017-09-27T00:00:00Z"
 
