@@ -23,23 +23,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
+    company: Information Center and Development RIC Bela Krajina
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+    location: Crnomelj, Slovenia
+    date_start: '2017-10-01'
+    date_end: '2018-04-30'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Planning and implement activities to promote and develop online brand of the tourism and business in the region of Bela Krajina. Using 3D technologies, Oculus Rift, Google Business, TripAdvisor, Wikiloc, Geocaching, Strava and social networks.
+        * Organizing TIC workshops to train startups in the co-working space.
         
-  - title: Professor
-    company: University X
+  - title: Lecturer
+    company: Research Center of the National University of Altiplano
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Puno, Peru
+    date_start: '2016-03-01'
+    date_end: '2017-03-31'
+    description: Teacher training of the University in research areas, on the use of tools that promote their career as researchers; [Mendeley](https://www.mendeley.com/) (Bibliographic References Manager), SigmaPlot (Analysis of scientific data) and DSpace (Repository of data).
+  
+  - title: System Analyst
+    company: Pre-University Center of National University of Altiplano
+    company_url: ''
+    location: Puno, Peru
+    date_start: '2011-11-01'
+    date_end: '2013-07-30'
+    description:  |2-
+        Responsabilities include:
+        
+        * Development of information systems, management of databases with information of students, teachers, administrative staff, document management.
+        * Implementation and maintenance of the Pre-University center web site.
 ---
