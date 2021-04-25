@@ -24,7 +24,7 @@ abstract: "In recent years, an increasing amount of knowledge graphs (KGs) have 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["research"]
+tags: ["Research"]
 categories: []
 featured: false
 
