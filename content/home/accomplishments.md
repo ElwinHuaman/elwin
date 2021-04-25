@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: First prize in the Smarth Destination Hackathon \#Hack4SD
+- title: [First prize in the Smarth Destination Hackathon \#Hack4SD](https://www.youtube.com/watch?v=roUrLgHZtWQ&ab_channel=WorldTourismOrganization%28UNWTO%29)
   description: "I have developed a search engine for sustainable tourism destinations [read more](https://www.youtube.com/watch?v=roUrLgHZtWQ&ab_channel=WorldTourismOrganization%28UNWTO%29)"
   organization: World Tourism Organization (UNWTO) with the Spanish government
   organization_url: https://www.unwto.org/
   date_end: ""
   date_start: "2018-06-01"
-  url: "https://www.youtube.com/watch?v=roUrLgHZtWQ&ab_channel=WorldTourismOrganization%28UNWTO%29"
+  url: ""
   certificate_url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
