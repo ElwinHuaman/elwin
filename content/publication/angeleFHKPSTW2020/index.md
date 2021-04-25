@@ -24,7 +24,7 @@ abstract: "Smart speakers such as Alexa and later Google Home have introduced Ar
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["research"]
 categories: []
 featured: false
 

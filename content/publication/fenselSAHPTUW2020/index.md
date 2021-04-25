@@ -24,9 +24,9 @@ abstract: "This book describes methods and tools that empower information provid
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["research"]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.springer.com/gp/book/9783030374389
 url_code:
 url_dataset:
 url_poster:
