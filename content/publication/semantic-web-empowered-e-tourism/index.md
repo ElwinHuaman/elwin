@@ -36,6 +36,8 @@ abstract: "Smart speakers such as Alexa and later Google Home have introduced
   Tools and Selected Use Cases. Springer Nature, 2020.)."
 draft: false
 featured: true
+projects:
+  - MindLab
 slides: https://doi.org/10.1007/978-3-030-05324-6_22-1
 image:
   filename: featured
