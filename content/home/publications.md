@@ -36,7 +36,6 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
 {{% callout note %}}
 See [All publications](./publication/). 
 Other lists: 
@@ -44,7 +43,3 @@ Other lists:
 [Google scholar](https://scholar.google.com/citations?user=D7AE8QsAAAAJ),
 [Research gate](https://www.researchgate.net/profile/Elwin-Huaman)
 {{% /callout %}}
-
-<!-- {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}} -->
