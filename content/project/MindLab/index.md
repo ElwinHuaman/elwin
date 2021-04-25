@@ -4,7 +4,7 @@
 title: "MindLab"
 summary: "Knowledge Graph-enabled conversational agents, University of Innsbruck and other partners, Private funding."
 authors: []
-tags: ["research"]
+tags: ["Research", "Knowledge Graphs"]
 categories: []
 date: 2018-09-01T02:11:20+01:00
 

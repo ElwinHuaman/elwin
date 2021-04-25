@@ -31,6 +31,7 @@ item:
   date_start: "2018-06-01"
   url: "https://www.youtube.com/watch?v=roUrLgHZtWQ"
   certificate_url: ""
+
 - title: Grant to participate in the meeting of Peruvian scientists in Europe at Berlin, Germany
   description: "I presented my contributions related to Linked Open Data  to the Peruvian scientists community"
   organization: Ministry of Foreign Affairs of Peru, Germany
@@ -39,6 +40,7 @@ item:
   date_start: "2017-10-01"
   url: "https://www.sinapsis-peru.org/"
   certificate_url: ""
+  
 - title: First prize in the University Contest of Talent and Entrepreneurship - CHAMP-U
   description: "The project let Alpaca breeder’s family in Peru offer their houses to visitors [read more](https://www.elcomercio.es/asturias/201706/06/gancho-alpacas-peruanas-20170606000443-v.html)"
   organization: University of Oviedo, Spain
@@ -48,12 +50,12 @@ item:
   url: "https://www.elcomercio.es/asturias/201706/06/gancho-alpacas-peruanas-20170606000443-v.html"
   certificate_url: ""
 
-- title: Scholarship to study a Master’s Degree
+- title: Erasmus Mundus Scholarship
   description: ""
   organization: Erasmus Mundus, PRECIOSA Project, EU
-  organization_url: ""
+  organization_url: "https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships_en"
   date_end: ""
   date_start: "2013-09-01"
-  url: ""
+  url: "https://ec.europa.eu/programmes/erasmus-plus/opportunities/individuals/students/erasmus-mundus-joint-masters-scholarships_en"
   certificate_url: ""
 ---
