@@ -1,5 +1,5 @@
 ---
-title: "KIPU: Knowledge that Inspires People like you"
+title: "KIPU: Knowledge that Inspires People like U"
 summary: An example of using the in-built project page.
 tags: ["Research", "Quechua"]
 date: "2019-09-27T00:00:00Z"
@@ -26,12 +26,12 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: KIPU
+slides: ""
 ---
 
 Imagine if we could speed up time in the fight against climate change:
 KIPU is a knowledge engine, chatbot, web search engine and App that stores, evaluates, curates, and represents sustainable destinations.
 
-see more in [KIPU: Knowledge that Inspires U](https://www.slideshare.net/elwinlhq/kipu-knowledge-that-inspires-people-like-you-sustainable-travel).
+see more in [KIPU: Knowledge that Inspires People like U](https://www.slideshare.net/elwinlhq/kipu-knowledge-that-inspires-people-like-you-sustainable-travel).
 
 KIPU es un motor de conocimiento (knowledge graph), chatbot (Kipu), buscador web (Smart Travel) y App (KipuLab) que almacena, evalúa, cura, y representa destinos sostenibles.
