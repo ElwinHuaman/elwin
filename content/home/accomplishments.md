@@ -29,7 +29,7 @@ item:
   organization_url: https://www.unwto.org/
   date_end: ""
   date_start: "2018-06-01"
-  url: ""
+  url: "https://www.youtube.com/watch?v=roUrLgHZtWQ&ab_channel=WorldTourismOrganization%28UNWTO%29"
   certificate_url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
