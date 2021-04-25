@@ -76,7 +76,7 @@ email: "elwin.huaman@sti2.at"
 highlight_name: false
 ---
 
-Elwin Huaman is a PhD student at the University of Innsbruck. His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
+Elwin Huaman is a PhD student at the [University of Innsbruck]({{< ref "http://uibk.ac.at/" >}}). His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
 
 He leads the QUIPU: Quechua language-based Knowledge Graph project, which is a knowledge graph that preserves as much as possible all quechua knowledge in a structured format.
 
