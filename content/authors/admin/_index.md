@@ -6,7 +6,7 @@ title: Elwin Huaman
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Computer Science
+role: Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,6 +20,8 @@ bio: I am interested on knowledge graphs, semantic web technologies, and their a
 interests:
 - Knowledge Graphs
 - Knowledge Curation
+- Knowledge Validation
+- Quechua language
 - Semantic Web
 
 # Education to show in About widget
@@ -43,12 +45,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+# - icon: envelope
+#   icon_pack: fas
+#   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/elwinlhq
+  link: https://twitter.com/ElwinHuaman
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=D7AE8QsAAAAJ
@@ -57,10 +59,10 @@ social:
   link: https://github.com/elwinlhq
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/elwinlhq/
-- icon: facebook
-  icon_pack: fab
-  link: https://www.linkedin.com/in/elwinlhq/
+  link: https://www.linkedin.com/in/ElwinHuaman/
+# - icon: facebook
+#   icon_pack: fab
+#   link: https://www.linkedin.com/in/elwinlhq/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -76,8 +78,7 @@ email: "elwin.huaman@sti2.at"
 highlight_name: false
 ---
 
-Elwin Huaman is a PhD student at the [University of Innsbruck]({{< ref "http://uibk.ac.at/" >}}). His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
+Elwin Huaman is a PhD student at the [University of Innsbruck](http://uibk.ac.at/). His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
 
-He leads the QUIPU: Quechua language-based Knowledge Graph project, which is a knowledge graph that preserves as much as possible all quechua knowledge in a structured format.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+He leads the [QUIPU: Quechua language-based Knowledge Graph](https://elwin.huamanquispe.com/project/quipu/) project, which is a knowledge graph that preserves as much as possible all quechua knowledge in a structured format.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
