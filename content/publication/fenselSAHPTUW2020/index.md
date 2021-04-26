@@ -24,7 +24,7 @@ abstract: "This book describes methods and tools that empower information provid
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Research"]
+tags: ["Research", "Knowledge Graphs"]
 categories: []
 featured: true
 
