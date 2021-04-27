@@ -100,11 +100,12 @@ address = {street = "Technikerstraße 21a", city = "Innsbruck", region = "Tyrol"
 coordinates = {latitude = "47.263335", longitude = "11.3500706"}
 
 # Directions for visitors to locate you.
-directions = "Enter CTI Building and take the stairs to Room 3S02 on Floor 2"
+# directions = "Enter CTI Building and take the stairs to Room 3S02 on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 10:00 to 18:00"]
+# office_hours = ["Monday to Friday 10:00 to 18:00"]
+office_hours = ["Email for appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"
@@ -112,11 +113,11 @@ office_hours = ["Monday to Friday 10:00 to 18:00"]
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter Me", link = "https://twitter.com/Elwinlhq"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter Me", link = "https://twitter.com/ElwinHuaman"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/Elwinlhq"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/ElwinHuaman"},
   ]
 
 ############################
