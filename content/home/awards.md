@@ -10,7 +10,7 @@ headless: true
 weight: 35
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -23,6 +23,24 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Finalists phase, Aporta Challenge 2019, Ideas competition.
+  description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet."
+  organization: Ministry of Economy and Business, Spain
+  organization_url: https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019
+  date_end: ""
+  date_start: "2019-12-17"
+  url: "https://www.youtube.com/watch?v=6KZ5FkUBQlc"
+  certificate_url: ""
+
+- title: "Der Förderkreis 1669" 1669 International Conference Scholarships for Outstanding Students.
+  description: "The Förderkreis 1669 of the University of Innsbruck supports excellent young researchers by funding conference participation."
+  organization: University of Innsbruck, Austria
+  organization_url: https://www.uibk.ac.at/foerderkreis1669/
+  date_end: ""
+  date_start: "2019-07-07"
+  url: ""
+  certificate_url: ""
+
 - title: First prize in the Smarth Destination Hackathon \#Hack4SD
   description: "I have developed a search engine for sustainable tourism destinations [read more](https://www.youtube.com/watch?v=roUrLgHZtWQ)"
   organization: World Tourism Organization (UNWTO) with the Spanish government
