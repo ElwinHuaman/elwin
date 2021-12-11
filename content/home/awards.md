@@ -23,22 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: Finalists phase, Aporta Challenge 2019, Ideas competition.
-  description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet."
+- title: Best Paper Award at the International .
+  description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet. [See more](https://www.youtube.com/watch?v=6KZ5FkUBQlc)."
   organization: Ministry of Economy and Business, Spain
   organization_url: https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019
   date_end: ""
   date_start: "2019-12-17"
-  url: "https://www.youtube.com/watch?v=6KZ5FkUBQlc"
+  url: "https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019"
+  certificate_url: ""
+- title: Finalists phase, Aporta Challenge 2019, Ideas competition.
+  description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet. [See more](https://www.youtube.com/watch?v=6KZ5FkUBQlc)."
+  organization: Ministry of Economy and Business, Spain
+  organization_url: https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019
+  date_end: ""
+  date_start: "2019-12-17"
+  url: "https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019"
   certificate_url: ""
 
 - title: Der Förderkreis 1669 is an International Conference Scholarships for Outstanding Students.
   description: "The Förderkreis 1669 of the University of Innsbruck supports excellent young researchers by funding conference participation."
   organization: University of Innsbruck, Austria
-  organization_url: https://www.uibk.ac.at/foerderkreis1669/
+  organization_url: https://www.uibk.ac.at/
   date_end: ""
   date_start: "2019-07-07"
-  url: ""
+  url: "https://www.uibk.ac.at/foerderkreis1669/"
   certificate_url: ""
 
 - title: First prize in the Smarth Destination Hackathon \#Hack4SD
