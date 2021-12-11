@@ -13,7 +13,7 @@ address:
   country: Peru
 
 summary: "Knowledge Graph basado en el idioma Quechua."
-abstract: "QUIPU [key-poo], or talking knots, is an ancient Incan knowledge base and writing system, consisting of various type and colours of knots tied to a main cord, which represents both statistical (crops grown, taxes, workers, mines, etc.) and narrative information (stories and histories)."
+abstract: "QUIPU (key-poo), or talking knots, is an ancient Incan knowledge base and writing system, consisting of various type and colours of knots tied to a main cord, which represents both statistical (crops grown, taxes, workers, mines, etc.) and narrative information (stories and histories)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
