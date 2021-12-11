@@ -23,14 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: Best Paper Award at the International .
-  description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet. [See more](https://www.youtube.com/watch?v=6KZ5FkUBQlc)."
-  organization: Ministry of Economy and Business, Spain
-  organization_url: https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019
+- title: Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021) .
+  description: "Towards Knowledge Graphs Validation through Weighted Knowledge Sources. [Read more](https://doi.org/10.1007/978-3-030-91305-2_4)."
+  organization: Iberoamerican Knowledge Graphs and Semantic Web Conference
+  organization_url: https://kgswc.org/
   date_end: ""
-  date_start: "2019-12-17"
-  url: "https://datos.gob.es/en/desafios-aporta/aporta-challenge-2019"
+  date_start: "2021-11-24"
+  url: "https://www.linkedin.com/feed/update/urn:li:activity:6869395936515248128/"
   certificate_url: ""
+
 - title: Finalists phase, Aporta Challenge 2019, Ideas competition.
   description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet. [See more](https://www.youtube.com/watch?v=6KZ5FkUBQlc)."
   organization: Ministry of Economy and Business, Spain

@@ -2,28 +2,24 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Towards Knowledge Graphs Validation through Weighted Knowledge Sources"
-authors: ["Elwin Huaman", "Amar Tauqeer", "Geni Bushati", "Anna Fensel"]
-date: 2021-04-26T01:57:51+01:00
-doi: ""
+authors: ["Elwin Huaman", "Amar Tauqeer", "Anna Fensel"]
+date: 2021-11-24T01:57:51+01:00
+doi: "10.1007/978-3-030-91305-2_4"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-26T01:57:51+01:00
+publishDate: 2021-11-26T01:57:51+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv"
-publication_short: ""
+publication: "Knowledge Graphs and Semantic Web Conference (KGSWC 2021)"
+publication_short: "KGSWC 2021"
 
-abstract: "The performance of applications, such as personal assistants, search engines, and question-answering systems, rely on high-quality knowledge bases, a.k.a. Knowledge Graphs (KGs). To ensure their quality one important task is Knowledge Validation, which measures the degree to which statements or triples of a Knowledge Graph (KG) are correct. KGs inevitably contains incorrect and incomplete statements, which may hinder the adoption of such KGs in business applications as they are not trustworthy.
-In this paper, we propose and implement a validation approach that computes a confidence score for every triple and instance in a KG. The computed score is based on finding the same instances across different weighted knowledge sources and comparing their features.
-We evaluated the performance of our Validator by comparing a manually validated result against the output of the Validator.
-The experimental results showed that compared with the manual validation, our Validator achieved as good precision as the manual validation, although with certain limitations.
-Furthermore, we give insights and directions toward a better architecture to tackle KG validation."
+abstract: "The performance of applications, such as personal assistants and search engines, relies on high-quality knowledge bases, a.k.a. Knowledge Graphs (KGs). To ensure their quality one important task is knowledge validation, which measures the degree to which statements or triples of KGs are semantically correct. KGs inevitably contain incorrect and incomplete statements, which may hinder their adoption in business applications as they are not trustworthy. In this paper, we propose and implement a Validator that computes a confidence score for every triple and instance in KGs. The computed score is based on finding the same instances across different weighted knowledge sources and comparing their features. We evaluate our approach by comparing its results against a baseline validation. Our results suggest that we can validate KGs with an f-measure of at least 75%. Time-wise, the Validator, performed a validation of 2530 instances in 15 min approximately. Furthermore, we give insights and directions toward a better architecture to tackle KG validation."
 
 # Summary. An optional shortened abstract.
 summary: "A knowledge graph validation approach that computes a confidence score for every triple and instance in a KG"
@@ -41,12 +37,12 @@ featured: false
 #   icon: twitter
 
 url_pdf: https://arxiv.org/pdf/2104.12622.pdf
-url_code:
+url_code: 
 url_dataset:
 url_poster:
 url_project:
-url_slides:
-url_source: https://arxiv.org/abs/2104.12622
+url_slides: https://www.slideshare.net/elwinlhq/towards-knowledge-graphs-validation-through-weighted-knowledge-sources
+url_source: https://arxiv.org/pdf/2104.12622.pdf
 url_video:
 
 # Featured image
