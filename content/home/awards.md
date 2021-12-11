@@ -32,7 +32,7 @@ item:
   url: "https://www.youtube.com/watch?v=6KZ5FkUBQlc"
   certificate_url: ""
 
-- title: "Der Förderkreis 1669" 1669 International Conference Scholarships for Outstanding Students.
+- title: Der Förderkreis 1669 is an International Conference Scholarships for Outstanding Students.
   description: "The Förderkreis 1669 of the University of Innsbruck supports excellent young researchers by funding conference participation."
   organization: University of Innsbruck, Austria
   organization_url: https://www.uibk.ac.at/foerderkreis1669/
