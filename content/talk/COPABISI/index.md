@@ -22,10 +22,10 @@ date_end: "2021-12-17T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-17T10:00:00Z"
+publishDate: "2021-12-10T10:00:00Z"
 
 authors: ["admin"]
-tags: ["Talks", "Research", "Demo", "Knowledge", "Editathon"]
+tags: ["Talks", "Research", "Demo", "Knowledge", "Editathon", "Knowledge Graphs"]
 
 # Is this a featured talk? (true/false)
 featured: false
