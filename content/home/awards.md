@@ -30,7 +30,7 @@ item:
   date_end: ""
   date_start: "2021-11-24"
   url: "https://www.linkedin.com/feed/update/urn:li:activity:6869395936515248128/"
-  certificate_url: ""
+  certificate_url: "media/ElwinHuamanKGSWC2021.JPG"
 
 - title: Finalists phase, Aporta Challenge 2019, Ideas competition.
   description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet. [See more](https://www.youtube.com/watch?v=6KZ5FkUBQlc)."
