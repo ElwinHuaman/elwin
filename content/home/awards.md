@@ -23,7 +23,25 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- title: Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021) .
+- title: Best Project Award at the 4th Summer Datathon on Linguistic Linked Open Data (SDLLOD-22).
+  description: "Dictionary LODification using Wikibase: Quechua language. [Read more](https://datathon2022.linkeddata.es/)."
+  organization: European network for Web-centred linguistic data science
+  organization_url: https://nexuslinguarum.eu/
+  date_end: "2022-06-03"
+  date_start: "2022-05-30"
+  url: "https://datathon2022.linkeddata.es/"
+  certificate_url: "media/NexusCertificate.png"
+
+- title: First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022).
+  description: "Generating knowledge in minority languages for the Web. [Read more](https://icts-for-indigenous-languages.hackerearth.com/)."
+  organization: UNESCO
+  organization_url: https://www.unesco.org/
+  date_end: "2022-05-10"
+  date_start: "2022-04-18"
+  url: "https://icts-for-indigenous-languages.hackerearth.com/"
+  certificate_url: "media/UNESCOHack.jpeg"
+
+- title: Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021).
   description: "Towards Knowledge Graphs Validation through Weighted Knowledge Sources. [Read more](https://doi.org/10.1007/978-3-030-91305-2_4)."
   organization: Iberoamerican Knowledge Graphs and Semantic Web Conference
   organization_url: https://kgswc.org/

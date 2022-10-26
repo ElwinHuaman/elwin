@@ -6,7 +6,7 @@ title: Elwin Huaman
 superuser: true
 
 # Role/position/tagline
-role: Research Assistant
+role: Senior Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,15 @@ organizations:
   url: http://uibk.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am interested on knowledge graphs, semantic web technologies, and their applications.
+bio: I am a Computer Scientist, born in a [Quechua](https://en.wikipedia.org/wiki/Quechuan_languages) Community in [Peru](https://en.wikipedia.org/wiki/Peru). I do research, teaching, and project management.
 
 # Interests to show in About widget
 interests:
+- Semantic Web
 - Knowledge Graphs
 - Knowledge Curation
-- Knowledge Validation
 - Quechua language
-- Semantic Web
+- Wikibase
 
 # Education to show in About widget
 education:
@@ -78,7 +78,7 @@ email: "elwin.huaman@sti2.at"
 highlight_name: false
 ---
 
-Elwin Huaman is a PhD student at the [University of Innsbruck](http://uibk.ac.at/). His main interests are knowledge graphs, knowledge curation, data enrichment, representation, visualization and the combination with related technologies such as machine learning and statistics. He works developing semantic web technologies within the academy and the industry.
+Elwin Huaman is a Senior Scientist, Project Manager, and Teaching assistant. He has experience in developing and implementing semantic web technologies within academia and industry. He has published several articles and co-authored a book title: [Knowledge graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6). Furthermore, He has participated and been awarded in a conference, hackathon, and datathon. Last but not least, He runs several projects, workshops, and presentations related to under-resourced and endangered languages.
 
-He leads the [QUIPU: Quechua language-based Knowledge Graph](https://elwin.huamanquispe.com/project/quipu/) project, which is a knowledge graph that preserves as much as possible all quechua knowledge in a structured format.
+He leads the [QICHWABASE](https://qichwa.wikibase.cloud/) project, which is a knowledge graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
