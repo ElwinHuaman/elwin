@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Google"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&family=Abel"
+
+# Font families
+heading_font = "Abel"
+body_font = "Abel"
+nav_font = "Abel"
+mono_font = "Abel"
