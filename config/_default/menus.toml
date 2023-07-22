@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Awards"
-  url = "awards.md"
+  url = "/awards"
   weight = 35
 
 [[main]]
