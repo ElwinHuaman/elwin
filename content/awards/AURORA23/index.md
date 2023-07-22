@@ -1,31 +1,25 @@
 ---
-title: "Knowledge Graphs: Past, Present, and Future"
+title: "Grant for attending the AURORA Summer School"
 
-event: Conference Workshop
-event_url: http://copabisi.com/#cronograma
+event: AURORA Summer School on Public Outreach
+event_url: ''
 
-location: Congreso Peruano Argentino Boliviano de Ingenieria de Sistemas e Informatica - COPABISI 2021
-address:
-  street: ''
-  city: ''
-  region: ''
-  postcode: '0051'
-  country: Argentina, Bolivia, and Peru 
+location: Iceland
 
-summary: "Knowledge Graphs: Past, Present, and Future"
-abstract: "Knowledge Graphs..."
+summary: "Grant, University of Innsbruck for attending the AURORA Summer School on Public Outreach for selected PhD candidates, from 5 to 8 June, Iceland"
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-17T16:00:00Z"
-date_end: "2021-12-17T17:00:00Z"
-all_day: false
+date: "2023-06-05T16:00:00Z"
+date_end: "2023-06-08T17:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-12-10T10:00:00Z"
+publishDate: "2023-06-05T16:00:00Z"
 
 authors: ["admin"]
-tags: ["Talks", "Research", "Demo", "Knowledge", "Editathon", "Knowledge Graphs"]
+tags: ["Scholarship", "PhD", "Quechua", "Knowledge Graphs"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -57,5 +51,5 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- QUIPU
+# - QUIPU
 ---
