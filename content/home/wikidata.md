@@ -3,7 +3,7 @@ title: My page
 type: landing
 
 sections:
-  - block: markdown
+  - block: hero
     content:
       title: My title
       subtitle: My subtitle
