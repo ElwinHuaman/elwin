@@ -11,7 +11,7 @@ weight: 35
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Awards'
-subtitle:
+subtitle: 'Awards, Achievements, and Grants'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -30,7 +30,7 @@ item:
   date_end: "2022-06-03"
   date_start: "2022-05-30"
   url: "https://datathon2022.linkeddata.es/"
-  certificate_url: "media/NexusCertificate.png"
+  certificate_url: "../media/NexusCertificate.png"
 
 - title: First Prize at the ICTs for Indigenous Languages Hackathon as part of the World Summit on the Information Society (WSIS 2022).
   description: "Generating knowledge in minority languages for the Web. [Read more](https://icts-for-indigenous-languages.hackerearth.com/)."
@@ -39,7 +39,7 @@ item:
   date_end: "2022-05-10"
   date_start: "2022-04-18"
   url: "https://icts-for-indigenous-languages.hackerearth.com/"
-  certificate_url: "media/UNESCOHack.jpeg"
+  certificate_url: "../media/UNESCOHack.jpeg"
 
 - title: Best Paper Award at the Knowledge Graph Semantic Web Conference  (KGSWC 2021).
   description: "Towards Knowledge Graphs Validation through Weighted Knowledge Sources. [Read more](https://doi.org/10.1007/978-3-030-91305-2_4)."
@@ -48,7 +48,7 @@ item:
   date_end: ""
   date_start: "2021-11-24"
   url: "https://www.linkedin.com/feed/update/urn:li:activity:6869395936515248128/"
-  certificate_url: "media/ElwinHuamanKGSWC2021.JPG"
+  certificate_url: "../media/ElwinHuamanKGSWC2021.JPG"
 
 - title: Finalists phase, Aporta Challenge 2019, Ideas competition.
   description: "Web search engine for locating sustainable destinations. It aims to promote responsible and sustainable tourism to preserve the planet. [See more](https://www.youtube.com/watch?v=6KZ5FkUBQlc)."
