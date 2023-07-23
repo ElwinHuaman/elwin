@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true, award = true}
+show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -88,7 +88,7 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "elwin.huaman{at}sti{dot}at"
+email = "elwin.huaman{at}uibk{dot}ac{dot}at"
 phone = "+43 512 507 53416"
 
 # Address
@@ -200,7 +200,6 @@ plugins_js  = []
   post_view = 2
   publication_view = 2
   talk_view = 2
-  award_view = 2
 
 ############################
 ## Comments
