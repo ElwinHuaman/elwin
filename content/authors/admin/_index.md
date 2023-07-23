@@ -20,9 +20,11 @@ bio: I am a Computer Scientist, born in a [Quechua](https://en.wikipedia.org/wik
 interests:
 - Semantic Web
 - Knowledge Graphs
-- Knowledge Curation
+- Wikibase Ecosystem
+- Low-resource Languages
+- Minority communities
 - Quechua language
-- Wikibase
+- Web for all
 
 # Education to show in About widget
 education:
@@ -60,6 +62,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ElwinHuaman/
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/@elwinhuaman
 # - icon: facebook
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/elwinlhq/
@@ -75,10 +80,10 @@ social:
 email: "elwin.huaman@uibk.ac.at"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Elwin Huaman is a Senior Scientist, Project Manager, and Teaching assistant. He has experience in developing and implementing semantic web technologies within academia and industry. He has published several articles and co-authored a book title: [Knowledge graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6). Furthermore, He has participated and been awarded in a conference, hackathon, and datathon. Last but not least, He runs several projects, workshops, and presentations related to under-resourced and endangered languages.
+Elwin Huaman is a **Researcher**, **Project Manager**, and **Low-resource Language Activist**. He has experience creating ==Knowledge Graphs== and applying ==Semantic Web== technologies in academia and industry. He has published several articles and co-authored a book title: [Knowledge graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6). Furthermore, he has participated in __conferences__, __hackathons__, and __datathons__. Last but not least, he leads and monitors projects, programs, workshops, presentations, and talks related to knowledge management, minority communities, under-resourced and endangered languages, and media and information literacy.
 
-He leads the [QICHWABASE](https://qichwa.wikibase.cloud/) project, which is a knowledge graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
+He leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world. Moreover, he coordinates the [WikiAndes](https://elwin.huamanquispe.com/project/wikiandes/) program.
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
