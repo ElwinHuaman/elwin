@@ -15,7 +15,7 @@ header:
 ---
 
 {{% callout note %}}
-See [All publications](./publication/). 
+<!-- See [All publications](./publication/).  -->
 Other lists: 
 [DBLP](https://dblp.uni-trier.de/search?q=Elwin%20Huaman),
 [Google scholar](https://scholar.google.com/citations?user=D7AE8QsAAAAJ),
