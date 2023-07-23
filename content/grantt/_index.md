@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Awards, Achievements, and Grants
 
 # View.
 #   1 = List
