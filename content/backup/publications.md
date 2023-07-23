@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -43,4 +43,4 @@ Other lists:
 [DBLP](https://dblp.uni-trier.de/search?q=Elwin%20Huaman),
 [Google scholar](https://scholar.google.com/citations?user=D7AE8QsAAAAJ),
 [Research gate](https://www.researchgate.net/profile/Elwin-Huaman)
-{{% /callout %}} -->
+{{% /callout %}}
