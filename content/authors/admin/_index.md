@@ -72,7 +72,7 @@ social:
   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "elwin.huaman@sti2.at"
+email: "elwin.huaman@uibk.ac.at"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
