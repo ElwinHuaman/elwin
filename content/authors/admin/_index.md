@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD in Computer Science
-    institution: Innsbruck University, Austria
+    institution: '[Innsbruck University](https://www.uibk.ac.at/), Austria'
     year: 2019 (ongoing)
   - course: Msc in Web Engineering
     institution: Oviedo University, Spain
