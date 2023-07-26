@@ -13,7 +13,7 @@ headless: true
 weight: 25
 
 title: Elwin Huaman Knowledge Graph
-subtitle: powered by Wikidata
+subtitle: 'powered by [Wikidata](https://www.wikidata.org/entity/Q100324298)'
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
