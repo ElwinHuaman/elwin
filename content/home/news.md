@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 25
 
-title: [Elwin Huaman's Knowledge Graph](https://www.wikidata.org/entity/Q100324298)
-subtitle: powered by Wikidata
+title: [Elwin Huaman Knowledge Graph](https://www.wikidata.org/entity/Q100324298)
+subtitle: powered by [Wikidata](https://www.wikidata.org/entity/Q100324298)
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
