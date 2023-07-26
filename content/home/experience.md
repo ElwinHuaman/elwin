@@ -22,6 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: "Project Manager"
+    company: "WikiAndes"
+    company_url: "https://huamanquispe.com/project/wikiandes/"
+    location: "Puno, Peru"
+    date_start: '2022-06-01'
+    date_end: '2023-06-30'
+    # description: It aims to bring Wiki projects to the Andes. It helps teachers and students in the Andes (e.g. Peru) achieve their learning objectives, for instance, developing media and information literate citizens.
+
+  - title: "Assistant Facilitator"
+    company: "Wikimedia Foundation"
+    company_url: "https://wikimediafoundation.org/"
+    location: "California, United States (Remote)"
+    date_start: '2022-09-12'
+    date_end: '2022-12-22'
+    # description: I research semantic web technologies within the academy and industry. My main interest is focused on Knowledge Graph Curation, which involves the assessment, cleaning, and enrichment of Knowledge Graphs.
+    
+  - title: "Teaching Assistant"
+    company: "University of Innsbruck"
+    company_url: "https://www.uibk.ac.at/"
+    location: "Innsbruck, Austria"
+    date_start: '2019-01-01'
+    date_end: '2022-12-31'
+    # description: I research semantic web technologies within the academy and industry. My main interest is focused on Knowledge Graph Curation, which involves the assessment, cleaning, and enrichment of Knowledge Graphs.
+
   - title: "Researcher"
     company: "Semantic Technology Institute Innsbruck, University of Innsbruck"
     company_url: "https://sti2.at"
