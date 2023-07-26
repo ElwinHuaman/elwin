@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- title: Science Slam Winner.
+  description: "Preserving human knowledge through knowledge graphs by Elwin Huaman (ScienceSlam2022). [Read more](http://web.archive.org/web/20221205184839/http://www.scienceslam.at/)."
+  organization: Science Slam Austria
+  organization_url: http://www.scienceslam.at/
+  date_end: "2022-09-27"
+  date_start: "2022-09-27"
+  url: "https://www.youtube.com/watch?v=VZmVrKyYsgU"
+  certificate_url: ""
+
 - title: Best Project Award at the 4th Summer Datathon on Linguistic Linked Open Data (SDLLOD-22).
   description: "Dictionary LODification using Wikibase: Quechua language. [Read more](https://datathon2022.linkeddata.es/)."
   organization: European network for Web-centred linguistic data science
