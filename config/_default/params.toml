@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "elwin.huaman{at}uibk{dot}ac{dot}at"
-phone = "+43 512 507 53416"
+email = "elwin.huaman{at}hotmail{dot}com"
+# phone = "+43 512 507 53416"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Technikerstraße 21a", city = "Innsbruck", region = "Tyrol", postcode = "6020", country = "Austria", country_code = "AT"}
+# address = {street = "Technikerstraße 21a", city = "Innsbruck", region = "Tyrol", postcode = "6020", country = "Austria", country_code = "AT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -105,10 +105,10 @@ coordinates = {latitude = "47.263335", longitude = "11.3500706"}
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
 # office_hours = ["Monday to Friday 10:00 to 18:00"]
-office_hours = ["Email for appointment"]
+# office_hours = ["Email for appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/elwinhuaman/meeting"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
