@@ -29,9 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Linguistics and Media Studies
     institution: Innsbruck University, Austria
-    year: 2019 (ongoing)
+    year: 2023 (ongoing)
   - course: Msc in Web Engineering
     institution: Oviedo University, Spain
     year: 2017
