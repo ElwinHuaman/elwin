@@ -1,0 +1,22 @@
+---
+title: 'Work Experience'
+date: 2024-08-1
+type: landing
+
+design:
+  spacing: '5rem'
+
+# Note: `username` refers to the user's folder name in `content/authors/`
+
+# Page sections
+sections:
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_work_first: true
+      is_education_off: true
+---

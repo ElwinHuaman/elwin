@@ -1,0 +1,60 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: 'ELwin Huaman'
+    description: 'Elwin Huaman is a peruvian researcher, project manager, and under-resourced language activist.'
+    twitter: 'ElwinHuaman'
+  analytics:
+    google_analytics: 'G-V93H6PY1TW'
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: 'G-V93H6PY1TW'
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Elwin Huaman"
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Elwin Huaman. Licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '15:04'
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false

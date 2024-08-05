@@ -1,0 +1,96 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Bio
+    url: /
+    weight: 10
+  - name: Education
+    url: bio/education/
+    parent: Bio
+    weight: 11
+  - name: Experience
+    url: bio/experience/
+    parent: Bio
+    weight: 12
+  - name: Awards
+    url: bio/awards/
+    parent: Bio
+    weight: 13
+  - name: Skills
+    url: bio/skills/
+    parent: Bio
+    weight: 14
+  - name: Languages
+    url: bio/languages/
+    parent: Bio
+    weight: 15
+  - name: Family
+    url: bio/family/
+    parent: Bio
+    weight: 16
+    # 
+  - name: Publications
+    url: publication/
+    weight: 20
+    # 
+  - name: Projects
+    # url: projects/
+    weight: 30
+  - name: All Projects
+    url: projects/
+    parent: Projects
+    weight: 10
+  - name: 2024 Quechua Voices
+    url: project/quechuavoices/
+    parent: Projects
+    weight: 32
+  - name: 2023 WikiAndes
+    url: project/wikiandes/
+    parent: Projects
+    weight: 34
+  - name: 2022 Qichwabase
+    url: project/qichwabase/
+    parent: Projects
+    weight: 35
+  - name: 2021 WordLift NG
+    url: project/wordliftng/
+    parent: Projects
+    weight: 37
+  - name: 2021 Quechua Wikipedia
+    url: project/quechuawikipedia/
+    parent: Projects
+    weight: 38
+  - name: 2018 MindLab
+    url: project/mindlab/
+    parent: Projects
+    weight: 41
+    # 
+  # - name: Papers
+  #   url: /#papers
+  #   weight: 61
+  - name: Activities   
+    weight: 50
+  - name: News
+    url: post/
+    parent: Activities
+    weight: 51
+  - name: Talks
+    url: event/
+    parent: Activities
+    weight: 52
+  - name: Teaching
+    url: teaching/
+    parent: Activities
+    weight: 53
+  # - name: Experience
+  #   url: experience/
+  #   weight: 20
+  # - name: Biography
+  #   url: biography/
+  #   weight: 50
+  - name: Contact
+    url: contact/
+    weight: 60
