@@ -31,7 +31,7 @@ authors: ["admin"]
 tags: ["Talks", "Research", "Demo", "Knowledge", "Editathon"]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: "Photo by [@ElwinHuaman](https://twitter.com/ElwinHuaman)"
