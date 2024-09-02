@@ -16,11 +16,13 @@ image:
 (<a href='https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Arguedas'>Jose María Arguedas</a>).
 {{% /callout %}}
 
-## My first step
+## 1990: Time of being brave
 
-I am a quechua, from Peru, and preserving knowledge was always a challenge in my family. My mother [Ninfa]() had to travel long distances to alphabetize quechua communities, my father [Luis]() is a quechua singer in my town. And, I personally was involved in the process of preserving knowledge through literacy, songs, poems, meetings, and being in contact with quechua communities.
+I am a quechua, from Peru, and preserving knowledge was always a challenge in my family. My mother [Ninfa]() had to travel long distances to alphabetize quechua communities, my father [Luis]() is a quechua singer and a veterinarian in my town. Together, with my sister [Wendi]() and my brothers [Yamel]() and [Jorge]() -- when everybody wanted to migrate to big/capital cities --, we decided to return to our roots, our culture, traditions, ancestral knowledge, to our identity. 
 
-![The andes](media/images/Andes.png "The andes")
+I personally was involved in the process of preserving knowledge through literacy, songs, poems, meetings, and being in contact with quechua communities.
+
+![The andes](/media/images/Andes.png "The andes")
 
 I am an indigenous Quechua from Peru, and as a proud Quechuan, my aim to empower and support endangered-language communities in reclaiming our rights and presence on and off the Web, has always driven my academic, professional, and personal journey. 
 
