@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/Resume-ElwinHuaman.pdf
+        url: uploads/CV-ElwinHuaman.pdf
         # text: Download CV
         # url: uploads/resume.pdf
     design:
@@ -33,6 +33,17 @@ sections:
           size: cover
           position: center
           parallax: false  
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2      
   - block: collection
     id: papers
     content:
@@ -55,17 +66,6 @@ sections:
     design:
       view: article-grid
       columns: 3
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2      
   - block: markdown
     content:
       title: '📚 Elwin Huaman Knowledge Graph'
