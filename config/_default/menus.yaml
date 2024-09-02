@@ -40,6 +40,22 @@ main:
     url: publication/
     weight: 20
     # 
+  - name: Research
+    url: research/
+    weight: 21
+  - name: Publications
+    url: research/publication/
+    parent: Research
+    weight: 10 
+  - name: Book
+    url: research/knowledge-graph-book/
+    parent: Research
+    weight: 11
+  - name: Thesis
+    url: research/thesis/
+    parent: Research
+    weight: 12
+    #     
   - name: Projects
     # url: projects/
     weight: 30
