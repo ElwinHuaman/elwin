@@ -1,14 +1,11 @@
 ---
-title: 'My Story'
-summary: A short auto biography of Elwin Huaman from his early age to this date.
+title: 'Open Theses'
+summary: I offer the supervision of theses at all times of the year.
 # Files in this folder represent a Widget Page
 type: widget_page
 tags:
   - Elwin Huaman
-  - Elwin Luis Huaman Quispe
-  - Quechua people
-image:
-  caption: 'Elwin Huaman - Story'
+  - Theses
 ---
 {{% callout note %}}
 <!-- See [All publications](./publication/).  -->
@@ -22,6 +19,14 @@ Read more about open topics and theses previously supervised by our institute:
 
 ## Open Theses
 
-## Assigned Theses
+### Alpaca PEDIGRI
+Goal: Develop an open and community-driven genealogical and productive registers of camelids.
+Literature: TBD
 
-## Completed Theses
+### Build Tree datasets for the Quechua language
+Goal: Annotate quechua expressions with the CONLLU format. 
+Literature: TBD
+
+### Quechua Voice Corpus
+Goal: Sync Mozilla Voice and Wikimedia Commons for a better dissemination of the Quechua voices.
+LIterature: TBD

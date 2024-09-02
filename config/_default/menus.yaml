@@ -46,7 +46,7 @@ main:
     url: research/knowledge-graph-book/
     parent: Research
     weight: 22
-  - name: Theses
+  - name: Open theses
     url: research/theses/
     parent: Research
     weight: 23
