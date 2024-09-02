@@ -50,7 +50,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - research/publication
+          - research/publication/
         featured_only: true
     design:
       view: article-grid
