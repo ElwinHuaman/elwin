@@ -1,5 +1,5 @@
 ---
-title: 'Elwin Huaman: My Story'
+title: 'My Story'
 summary: A short auto biography of Elwin Huaman from his early age to this date.
 # Files in this folder represent a Widget Page
 type: widget_page
@@ -22,7 +22,7 @@ I am a quechua, from Peru, and preserving knowledge was always a challenge in my
 
 I personally was involved in the process of preserving knowledge through literacy, songs, poems, meetings, and being in contact with quechua communities.
 
-![The andes](/media/images/Andes.png "The andes")
+![The andes](/media/images/Andes.png "The andes represent our Quechua identity.")
 
 I am an indigenous Quechua from Peru, and as a proud Quechuan, my aim to empower and support endangered-language communities in reclaiming our rights and presence on and off the Web, has always driven my academic, professional, and personal journey. 
 
