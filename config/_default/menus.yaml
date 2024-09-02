@@ -35,26 +35,21 @@ main:
     url: 'https://huamanquispe.com/us/team/'
     parent: Bio
     weight: 17
-    # 
-  # - name: Publications
-  #   url: publication/
-  #   weight: 20
-  #   # 
   - name: Research
-    url: research/
-    weight: 21
+    url: /
+    weight: 20
   - name: Publications
     url: research/publication/
     parent: Research
-    weight: 10 
+    weight: 21 
   - name: Book
     url: research/knowledge-graph-book/
     parent: Research
-    weight: 11
-  - name: Thesis
-    url: research/thesis/
+    weight: 22
+  - name: Theses
+    url: research/theses/
     parent: Research
-    weight: 12
+    weight: 23
     #     
   - name: Projects
     # url: projects/

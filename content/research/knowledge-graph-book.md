@@ -1,19 +1,35 @@
 ---
-title: 'My Story'
-summary: A short auto biography of Elwin Huaman from his early age to this date.
+title: 'Knowledge Graphs: Methodology, Tools and Selected Use Cases'
+summary: This book describes methods and tools that empower information providers to build and maintain knowledge graphs, including those for manual, semi-automatic, and automatic construction; implementation; and validation and verification of semantic annotations and their integration into knowledge graphs.
 # Files in this folder represent a Widget Page
 type: widget_page
 tags:
-  - Elwin Huaman
-  - Elwin Luis Huaman Quispe
-  - Quechua people
+  - Knowledge Graphs
 image:
-  caption: 'Elwin Huaman - Story'
+  caption: ''
 ---
 {{% callout note %}}
 <!-- See [All publications](./publication/).  -->
-"Somos un país de todas las sangres"
-(<a href='https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Arguedas'>Jose María Arguedas</a>).
+"Knowledge Graphs are very large semantic nets that integrate various and heterogeneous information sources to represent knowledge about certain domains of discourse."
+(<a href='https://elwin.huamanquispe.com/research/publication/2020fenselsahptuw/'>Fensel et al., 2020</a>).
 {{% /callout %}}
 
-# Knowledge Graphs Book
+## Abstract
+This book describes methods and tools that empower information providers to build and maintain knowledge graphs, including those for manual, semi-automatic, and automatic construction; implementation; and validation and verification of semantic annotations and their integration into knowledge graphs. It also presents lifecycle-based approaches for semi-automatic and automatic curation of these graphs, such as approaches for assessment, error correction, and enrichment of knowledge graphs with other static and dynamic resources. Chapter 1 defines knowledge graphs, focusing on the impact of various approaches rather than mathematical precision. Chapter 2 details how knowledge graphs are built, implemented, maintained, and deployed. Chapter 3 then introduces relevant application layers that can be built on top of such knowledge graphs, and explains how inference can be used to define views on such graphs, making it a useful resource for open and service-oriented dialog systems. Chapter 4 discusses applications of knowledge graph technologies for e-tourism and use cases for other verticals. Lastly, Chapter 5 provides a summary and sketches directions for future work. The additional appendix introduces an abstract syntax and semantics for domain specifications that are used to adapt schema.org to specific domains and tasks. To illustrate the practical use of the approaches presented, the book discusses several pilots with a focus on conversational interfaces, describing how to exploit knowledge graphs for e-marketing and e-commerce. It is intended for advanced professionals and researchers requiring a brief introduction to knowledge graphs and their implementation.
+
+## Table of Contents
+
+### Chapter 1. Introduction: What Is a Knowledge Graph?
+Since its inception by Google, Knowledge Graph has become a term that is recently ubiquitously used yet does not have a well-established definition. This section attempts to derive a definition for Knowledge Graphs by compiling existing definitions made in the literature and considering the distinctive characteristics of previous efforts for tackling the data integration challenge we are facing today. Our attempt to make a conceptual definition is complemented with an empirical survey of existing Knowledge Graphs. This section lays the foundation for the remainder of the book, as it provides a common understanding on certain concepts and motivation to build Knowledge Graphs in the first place.
+
+### Chapter 2. How to Build a Knowledge Graph
+This chapter outlines the state of the art of Knowledge Graph technologies by introducing the process of building a Knowledge Graph. We define the following major steps of an overall process model: (1) knowledge creation , (2) knowledge hosting , (3) knowledge curation , and (4) knowledge deployment. We demonstrate the methodology for the knowledge creation process that creates, extracts, and structures the fact base for a Knowledge Graph. We describe the process of knowledge collection, storage, and retrieval that implements established knowledge in a graph-based storage system. We analyze existing methods and tools to improve the quality of a large Knowledge Graph. For the Knowledge Curation process, we establish sub-steps, such as knowledge assessment, cleaning, and enrichment. For each of them, we determine various categories and dimensions that have been developed and described in the literature and identify tasks which can be applied (e.g., Knowledge Graph completion and correctness, error detection and correction, identifying and resolving duplicates). Finally, we describe the deployment process of a Knowledge Graph based on the following principles: findability, accessibility, interoperability, and reusability.
+
+### Chapter 3. How to Use a Knowledge Graph
+Intelligent Personal Assistants are changing the way we access the information on the web as search engines changed it years ago. Undoubtfully, an important factor that enables this way of consuming the web is the schema.org annotations on websites. Those annotations are extracted and then consumed by search engines and Intelligent Personal Assistants to support tasks like question-answering. In this section we explain how Knowledge Graphs built based on content, data, and service annotations can improve search engine results and conversational systems. We first give a brief overview of the history of the Internet, AI, and web and the role semantic technologies is playing in bringing those three to the point we are today. Then we show the need for an abstraction layer over Knowledge Graphs where we can create different knowledge views in order to achieve scalable curation, reasoning, and access control. Finally, we show how Knowledge Graphs can power conversational agents in different points in the dialog system pipeline and the promising future of service annotations helping to build flexible systems decoupled from the web services with which they communicate.
+
+### Chapter 4. Why We Need Knowledge Graphs: Applications
+No matter how well curated and high quality Knowledge Graphs we build are, they are only as powerful as their applications. In this section we introduce concrete real-world use cases where Knowledge Graphs power dialog-based access to information and services. We do that by giving an overview of the existing chatbot and voice assistant market first and then demonstrating their limitations. We explain in which ways Knowledge Graphs can improve conversational interfaces with the help of pilots from different domains such as tourism and energy.
+
+### Chapter 5. Conclusions
+With this book, we are aiming to provide answers to three essential questions: what are Knowledge Graphs, how are they built and accessed, and why are they important? We elaborated on several possible definitions of Knowledge Graphs and identified as core feature the extremely large amount of interlinked data they try to turn into knowledge. This significantly exceeds any traditional AI approach. We described in detail several approaches for constructing, hosting, curating, and deploying Knowledge Graphs, and we showed their usage for dialog-based information access that revolutionizes information access by humans. We described applications in the areas of e-tourism and beyond.
