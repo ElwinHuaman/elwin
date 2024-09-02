@@ -27,10 +27,14 @@ main:
     url: bio/languages/
     parent: Bio
     weight: 15
-  - name: Family
-    url: bio/family/
+  - name: My story
+    url: bio/my-story/
     parent: Bio
     weight: 16
+  - name: My family
+    url: 'https://huamanquispe.com/us/team/'
+    parent: Bio
+    weight: 17
     # 
   - name: Publications
     url: publication/
