@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher
+role: Senior Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -50,5 +50,5 @@ profiles:
 - 📧 Email me to: _elwin_ dot _huaman_ at _hotmail_ dot _com_
 - 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
 - 💬 [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
-- 👨‍🏫 Request an speaking engagement
-- 🌐 [More about Elwin](https://www.google.com/search?kgmid=/g/11fj545kct)
+- 👨‍🏫 [Request an speaking engagement](https://forms.gle/J68UZL5bWMXSpcTt5)
+- 🌐 [More about me](https://www.google.com/search?kgmid=/g/11fj545kct)
