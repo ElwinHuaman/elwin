@@ -30,10 +30,12 @@ I tried always be involved in the process of preserving our quechua knowledge th
 ## 2000: Moving forward to soustanible farming
 My family and I started to move forward and decided to combine the school with soustanible farming. For instance, that years we decided to plan trees all over the mountain, around the house, next to some hiden places where trees might be covered from the intense sun radiation. The coming years we planted at around 200 trees, however a fired came into our farm and burned most of them, it also consumed the grass and the alpacas food. 
 
-![The andes](/media/images/2000-HuamanQuispe.jpg "The hard working days, give us a green present.")
+![Huaman Quispe Soustanable Farm](/media/images/2000-HuamanQuispe.jpg "The hard working days, give us a green present.")
 
 ## 2007: Studying for a better future
 At the age of 17, I started my bachelor’s studies in Computer Science (Peru), with the intention of learning skills, methods, and tools to preserve my knowledge and language. Later, at the age of 23, I started my master's studies in Digital Information Systems (Spain), where I specialized in digital preservation, repositories, content management systems, and librarian tasks, such as, organization, annotation, and representation of resources (documents, videos, websites, etc).
+
+![](/media/images/2000-HuamanQuispe.jpg "The hard working days, give us a green present.")
 
 ## 2017: When a Quechua meets Knowledge Graphs
 To deepen my expertise, at the age of 27, I completed a master’s degree in Web Engineering (Spain), focusing on the curation of human knowledge stored on the web, and how to make it accessible and inclusive to all. 
