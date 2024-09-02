@@ -14,10 +14,10 @@ image:
 (<a href='https://elwin.huamanquispe.com/research/publication/2020fenselsahptuw/'>Fensel et al., 2020</a>).
 {{% /callout %}}
 
-![Knowledge Graphs: Methodology, Tools and Selected Use Cases](/media/images/knowledge-graph-book.png)
-
 ## Abstract
 This book describes methods and tools that empower information providers to build and maintain knowledge graphs, including those for manual, semi-automatic, and automatic construction; implementation; and validation and verification of semantic annotations and their integration into knowledge graphs. It also presents lifecycle-based approaches for semi-automatic and automatic curation of these graphs, such as approaches for assessment, error correction, and enrichment of knowledge graphs with other static and dynamic resources. Chapter 1 defines knowledge graphs, focusing on the impact of various approaches rather than mathematical precision. Chapter 2 details how knowledge graphs are built, implemented, maintained, and deployed. Chapter 3 then introduces relevant application layers that can be built on top of such knowledge graphs, and explains how inference can be used to define views on such graphs, making it a useful resource for open and service-oriented dialog systems. Chapter 4 discusses applications of knowledge graph technologies for e-tourism and use cases for other verticals. Lastly, Chapter 5 provides a summary and sketches directions for future work. The additional appendix introduces an abstract syntax and semantics for domain specifications that are used to adapt schema.org to specific domains and tasks. To illustrate the practical use of the approaches presented, the book discusses several pilots with a focus on conversational interfaces, describing how to exploit knowledge graphs for e-marketing and e-commerce. It is intended for advanced professionals and researchers requiring a brief introduction to knowledge graphs and their implementation.
+
+![Knowledge Graphs: Methodology, Tools and Selected Use Cases](/media/images/knowledge-graph-book.png)
 
 ## Table of Contents
 
