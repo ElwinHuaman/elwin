@@ -50,7 +50,7 @@ main:
     url: research/theses/
     parent: Research
     weight: 23
-    #     
+    # PROJECTS     
   - name: Projects
     # url: projects/
     weight: 30
@@ -82,7 +82,7 @@ main:
     url: project/mindlab/
     parent: Projects
     weight: 41
-    # 
+  # ACTIVITIES
   # - name: Papers
   #   url: /#papers
   #   weight: 61
@@ -92,14 +92,18 @@ main:
     url: post/
     parent: Activities
     weight: 51
+  - name: Press
+    url: press/
+    parent: Activities
+    weight: 52
   - name: Talks
     url: event/
     parent: Activities
-    weight: 52
+    weight: 53
   - name: Teaching
     url: teaching/
     parent: Activities
-    weight: 53
+    weight: 54
   # - name: Experience
   #   url: experience/
   #   weight: 20
