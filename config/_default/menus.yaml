@@ -39,7 +39,7 @@ main:
     url: /
     weight: 20
   - name: Publications
-    url: research/publication/
+    url: publication/
     parent: Research
     weight: 21 
   - name: Book
