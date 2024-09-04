@@ -51,4 +51,5 @@ profiles:
 - 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
 - 💬 [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
 - 👨‍🏫 [Request an speaking engagement](https://forms.gle/J68UZL5bWMXSpcTt5)
+- 📧 [Subscribe to my mailinglist](mailto:https://groups.google.com/g/elwinhuaman/)
 - 🌐 [More about me](https://www.google.com/search?kgmid=/g/11fj545kct)
