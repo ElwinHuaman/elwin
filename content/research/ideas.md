@@ -5,7 +5,7 @@ summary: It could be nice to colaborate on the development of some ideas.
 type: widget_page
 tags:
   - Elwin Huaman
-  - Theses
+  - Ideas
 ---
 {{% callout note %}}
 <!-- See [All publications](./publication/).  -->

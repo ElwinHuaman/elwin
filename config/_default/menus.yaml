@@ -35,6 +35,7 @@ main:
     url: 'https://huamanquispe.com/us/team/'
     parent: Bio
     weight: 17
+# RESEARCH
   - name: Research
     url: /
     weight: 20
@@ -50,6 +51,10 @@ main:
     url: research/theses/
     parent: Research
     weight: 23
+  - name: Ideas
+    url: research/ideas/
+    parent: Research
+    weight: 24
     # PROJECTS     
   - name: Projects
     # url: projects/
