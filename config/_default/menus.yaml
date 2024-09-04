@@ -101,7 +101,7 @@ main:
     parent: Activities
     weight: 53
   - name: Teaching
-    url: activity/teaching/
+    url: activity/teachings/
     parent: Activities
     weight: 54
   # CONTACT
