@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: uploads/resume-ElwinHuaman.pdf
+        url: '../uploads/resume-ElwinHuaman.pdf'
         # text: Download CV
         # url: uploads/resume.pdf
     design:
