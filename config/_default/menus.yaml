@@ -43,7 +43,7 @@ main:
     url: publication/
     parent: Research
     weight: 21 
-  - name: Book
+  - name: Book 🌐
     url: research/knowledge-graph-book/
     parent: Research
     weight: 22
