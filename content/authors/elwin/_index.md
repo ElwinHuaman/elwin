@@ -47,9 +47,9 @@ profiles:
     url: https://orcid.org/0000-0002-2410-4977
 ---
 ## Contact Me 🪧
-- 📧 Email me to: _elwin_ dot _huaman_ at _hotmail_ dot _com_
+- 📧 Email:: _elwin_ dot _huaman_ at _hotmail_ dot _com_
 - 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
-- 💬 [@ElwinHuaman on Telegram](https://t.me/ElwinHuaman)
+- 💬 [Telegram](https://t.me/ElwinHuaman)
+- 📧 [Mailinglist](https://groups.google.com/g/elwinhuaman/)
 - 👨‍🏫 [Request an speaking engagement](https://forms.gle/J68UZL5bWMXSpcTt5)
-- 📧 [Subscribe to my mailinglist](mailto:https://groups.google.com/g/elwinhuaman/)
 - 🌐 [More about me](https://www.google.com/search?kgmid=/g/11fj545kct)
