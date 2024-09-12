@@ -109,6 +109,10 @@ main:
     url: activity/teaching/
     parent: Activities
     weight: 54
+  - name: Courses
+    url: course/
+    parent: Activities
+    weight: 55    
   # CONTACT
   - name: Contact
     url: contact/

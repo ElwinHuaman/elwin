@@ -23,4 +23,8 @@ image:
 
 [Quechua Advance - Lesson 7 - Extra Material](https://elwin.huamanquispe.com/course/quechua-advance/clase-7-repaso/7-clase-repaso-instructivo.pdf)
 
+## Quechua Advance - Lesson 7 - Questions
+
+[Quechua Advance - Lesson 7 - Questions](https://elwin.huamanquispe.com/course/quechua-advance/clase-7-repaso/7-preguntas-quechua.pdf)
+
 ### Share it 🙌
