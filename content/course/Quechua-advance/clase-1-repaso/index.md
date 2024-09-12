@@ -16,11 +16,11 @@ image:
 
 ## Quechua Advance - Lesson 1 - PDF
 
-{{< embed-pdf url="1ra clase_repaso.pdf" >}}
+{{< embed-pdf url="1ra_clase_repaso.pdf" >}}
 
 ## Quechua Advance - Lesson 1 - Extra Material
 
-{{< embed-pdf url="1ra. Clase repaso_Instructivo.pdf" >}}
+{{< embed-pdf url="1ra_clase_repaso_instructivo.pdf" >}}
 
 ## Share it 🙌
 
