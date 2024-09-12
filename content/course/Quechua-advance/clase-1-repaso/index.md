@@ -16,11 +16,17 @@ image:
 
 ## Quechua Advance - Lesson 1 - PDF
 
-{{< embed-pdf url="1ra_clase_repaso.pdf" >}}
+<!-- <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object> -->
+
+{{< gdocs src="https://drive.google.com/file/d/1Ay5yXRYDvAGY23-c0hgSVL8tb2y_wxwH/view?usp=drive_link" >}}
 
 ## Quechua Advance - Lesson 1 - Extra Material
 
-{{< embed-pdf url="1ra_clase_repaso_instructivo.pdf" >}}
+{{< gdocs src="https://drive.google.com/file/d/1d7jEroGWqiTgbVuaxWSAgSmGpJ2LSHNu/view?usp=drive_link" >}}
 
 ## Share it 🙌
 
