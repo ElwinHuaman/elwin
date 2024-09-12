@@ -28,12 +28,4 @@ image:
 
 ![Quechua Advance - Lesson 1 - Extra Material](https://drive.google.com/file/d/1d7jEroGWqiTgbVuaxWSAgSmGpJ2LSHNu/view?usp=drive_link)
 
-## Share it 🙌
-
-{{< quiz >}}
-# What is the capital of France?
-- [ ] Berlin
-- [x] Paris
-- [ ] Rome
-- [ ] Madrid
-{{< /quiz >}}
+### Share it 🙌
