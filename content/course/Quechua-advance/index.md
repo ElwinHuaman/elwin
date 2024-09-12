@@ -1,21 +1,27 @@
 ---
 title: Quechua Advance
-summary: Quechua language is still spoken by 7 million people across the world. This is your chance to learn the Quechua language.
-date: 2024-08-01
-type: docs
-math: false
-tags:
-  - Quechua
-image:
-  caption: 'Learning Quechua with native speakers'
+summary: Open courses
+view: article-grid
+columns: 3
+# type: landing
+
+# cascade:
+#   - _target:
+#       kind: page
+#     params:
+#       show_breadcrumb: true
+
+# sections:
+#   - block: collection
+#     id: teaching
+#     content:
+#       title: Teaching
+#       text: 'Throughout my career as a E-learning developer and teacher, I have gained a comprehensive understanding of course design and content, grading policy, and course delivery. Furthermore, my background includes working with students of different nationalities and age ranges, which varies from bachelor students, master students, professors, and general (non-technical) participants. Likewise, my teaching experience includes the design and delivery of online and offline courses.'
+#       filters:
+#         folders:
+#           - teaching
+#     design:
+#       view: article-grid
+#       columns: 3
 ---
-
-The [Quechua Language](https://en.wikipedia.org/wiki/Quechuan_languages) course will provide, to the quechua community and public of all ages, free language resources. Which might support the alphabetization process of/in quechua language. This online quechua language course will be a friendly space for learning, creations of ideas, constructive discussions, and harmonization of the quechua language and knowledge. 
-
-## Quechua Editathon
-
-I run several editathons to publish articles in quechua language in Wikipedia :
-
-{{< youtube X_kKyTc3hH4 >}}
-
-## Share it 🙌
+Courses compiled from external sources.
