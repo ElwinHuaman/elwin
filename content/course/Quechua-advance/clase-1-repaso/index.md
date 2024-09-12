@@ -22,11 +22,11 @@ image:
     </embed>
 </object>
 
-<!-- {{< gdocs src="https://drive.google.com/file/d/1Ay5yXRYDvAGY23-c0hgSVL8tb2y_wxwH/view?usp=drive_link" >}} -->
+![Quechua Advance - Lesson 1 - PDF](https://drive.google.com/file/d/1Ay5yXRYDvAGY23-c0hgSVL8tb2y_wxwH/view?usp=drive_link)
 
 ## Quechua Advance - Lesson 1 - Extra Material
 
-<!-- {{< gdocs src="https://drive.google.com/file/d/1d7jEroGWqiTgbVuaxWSAgSmGpJ2LSHNu/view?usp=drive_link" >}} -->
+![Quechua Advance - Lesson 1 - Extra Material](https://drive.google.com/file/d/1d7jEroGWqiTgbVuaxWSAgSmGpJ2LSHNu/view?usp=drive_link)
 
 ## Share it 🙌
 
