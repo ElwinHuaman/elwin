@@ -16,12 +16,12 @@ image:
 
 ## Quechua Advance - Lesson 1 - PDF
 
-[Quechua Advance - Lesson 1 - PDF](https://drive.google.com/file/d/1Ay5yXRYDvAGY23-c0hgSVL8tb2y_wxwH/view?usp=drive_link)
+[Quechua Advance - Lesson 1 - PDF](https://elwin.huamanquispe.com/course/quechua-advance/clase-1-repaso/1ra_clase_repaso.pdf)
 
-{{< gdocs src="https://docs.google.com/..." >}}
+{{% staticref "1ra_clase_repaso.pdf" "newtab" %}}Download the Quechua Advance - Lesson 1 - PDF{{% /staticref %}}
 
 ## Quechua Advance - Lesson 1 - Extra Material
 
-[Quechua Advance - Lesson 1 - Extra Material](https://drive.google.com/file/d/1d7jEroGWqiTgbVuaxWSAgSmGpJ2LSHNu/view?usp=drive_link)
+[Quechua Advance - Lesson 1 - Extra Material](https://elwin.huamanquispe.com/course/quechua-advance/clase-1-repaso/1ra_clase_repaso_instructivo.pdf)
 
 ### Share it 🙌
