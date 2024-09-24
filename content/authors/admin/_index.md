@@ -58,15 +58,15 @@ interests:
   - Web for all  
 
 education:
-  - area: PhD in Linguistics and Media Studies (ongoing)
-    institution: Innsbruck University, Austria
-    date_start: 2023-10-10
-    date_end: 2025-12-30
-    summary: |
-      Thesis on _Building Knowledge Graphs for Under-resourced Languages_. I research the approaches for building knowledge graphs for under-resourced languages, that involves a holistic process of resource collection, creation, storing, curation, and deployment.
-    button:
-      text: 'Related work: QICHWABASE'
-      url: 'https://arxiv.org/pdf/2305.06173'
+  # - area: PhD in Linguistics and Media Studies (ongoing)
+  #   institution: Innsbruck University, Austria
+  #   date_start: 2023-10-10
+  #   date_end: 2025-12-30
+  #   summary: |
+  #     Thesis on _Building Knowledge Graphs for Under-resourced Languages_. I research the approaches for building knowledge graphs for under-resourced languages, that involves a holistic process of resource collection, creation, storing, curation, and deployment.
+  #   button:
+  #     text: 'Related work: QICHWABASE'
+  #     url: 'https://arxiv.org/pdf/2305.06173'
   - area: PhD in Computer Science (candidate)
     institution: Innsbruck University, Austria
     date_start: 2019-03-01
@@ -367,6 +367,6 @@ awards:
       First prize in the University Contest of Talent and Entrepreneurship (CHAMP-U). The project let Alpaca breeder’s family in Peru offer their houses to visitors.
 ---
 
-## Hi, I'm Elwin Huaman 👋
+## [Imaynallan](## "This is a general greeting in Quechua, it is used with everyone and at any time of the day, it shows interest in the other.") 👋
 
 Elwin Huaman is a **Researcher**, **Project Manager**, and an **Activist for Under-Resourced Languages**. He has experience creating [Knowledge Graphs](https://link.springer.com/book/10.1007/978-3-030-37439-6) and applying [Semantic Web]() technologies in academia and industry. He has co-authored the book: [Knowledge Graphs - Methodology, Tools and Selected Use Cases](https://link.springer.com/book/10.1007/978-3-030-37439-6), and leads the [QICHWABASE](https://qichwa.wikibase.cloud/) Knowledge Graph that supports a harmonization process of the language and knowledge of Quechua communities across the world.
