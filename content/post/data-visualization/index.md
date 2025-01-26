@@ -8,6 +8,7 @@ tags:
   - Hugo
   - Hugo Blox
   - Markdown
+  - Decap CMS
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
