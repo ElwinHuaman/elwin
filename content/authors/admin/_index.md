@@ -47,8 +47,9 @@ profiles:
     url: https://orcid.org/0000-0002-2410-4977
 
 interests:
-  - Semantic Web & Knowledge Graphs
-  - Resposible AI & Web for all
+  - Semantic Web 
+  - Knowledge Graphs
+  - Resposible AI, Web for all
   - Low-resource Languages
   - Computational Linguistics
   - Wikibase Ecosystem
