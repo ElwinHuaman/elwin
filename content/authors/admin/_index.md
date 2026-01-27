@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Researcher
+role: Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,15 +47,13 @@ profiles:
     url: https://orcid.org/0000-0002-2410-4977
 
 interests:
-  - Semantic Web
-  - Knowledge Graphs
-  - Resposible AI  
+  - Semantic Web & Knowledge Graphs
+  - Resposible AI & Web for all
   - Low-resource Languages
   - Computational Linguistics
   - Wikibase Ecosystem
   - Minority communities
   - Quechua language
-  - Web for all  
 
 education:
   # - area: PhD in Linguistics and Media Studies (ongoing)
@@ -124,19 +122,39 @@ education:
       - Implementation of information systems
 # Work
 work:
-  - position: Project Manager
-    company_name: Qichwabase
-    company_url: 'https://qichwa.wikibase.cloud/'
+  - position: Quechua Language Teacher
+    company_name: Department of Linguistics, University of Innsbruck
+    company_url: 'https://www.uibk.ac.at'
     company_logo: ''
-    date_start: 2024-01-01
-    date_end: 2024-06-30
+    date_start: 2025-09-01
+    date_end: 2026-02-28
     summary: |2-
       Responsibilities include:
-      - Implementing the Quechua Voices project 
-      - Monitor the project from its planning to final reporting
-      - Develop methods and tools to represent the Puno Quechua language
-
-      As result 1300 lexemes, with their senses, forms, and pronunciation speech where added into Wikidata.
+      - Designing and delivering a comprehensive introductory Quechua language course
+      - Creating learning material, focusing on grammar, phonology, and morphosyntax
+      - Managing course assessment, student projects, and a final written exam
+  - position: Project Manager, Open Multilingual Speech
+    company_name: Mozilla Foundation
+    company_url: 'https://commonvoice.mozilla.org'
+    company_logo: ''
+    date_start: 2024-11-01
+    date_end: 2025-03-30
+    summary: |2-
+      Responsibilities include:
+      - Led community-driven efforts to collect and validate >15 hours of open-source speech data
+      - Localizing and adapting Mozilla Common Voice platform for Quechua languages
+      - Bridged technical/non-technical stakeholders to align to language preservation goals
+  - position: Web Community Coordinator
+    company_name: Endangered Languages Project
+    company_url: 'https://www.endangeredlanguages.com'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 2025-03-30
+    summary: |2-
+      Responsibilities include:
+      - Facilitated knowledge-sharing between researchers and native speaker communities
+      - Designed workflows to make language resources more accessible to non-technical users
+      - Led Skill Share Sessions on Project Management, Grant writing, and Funding processes
   - position: Data Consultant
     company_name: Digital Science Center (DISC), University of Innsbruck, Austria
     company_url: 'https://www.uibk.ac.at/de/disc/'
