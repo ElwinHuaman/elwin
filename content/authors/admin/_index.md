@@ -129,7 +129,7 @@ work:
     company_url: 'https://www.uibk.ac.at'
     company_logo: ''
     date_start: 2025-09-01
-    date_end: 2026-02-28
+    date_end: 
     summary: |2-
       Responsibilities include:
       - Designing and delivering a comprehensive introductory Quechua language course
