@@ -124,39 +124,6 @@ education:
       - Implementation of information systems
 # Work
 work:
-  - position: Quechua Language Teacher
-    company_name: Department of Linguistics, University of Innsbruck
-    company_url: 'https://www.uibk.ac.at'
-    company_logo: ''
-    date_start: 2025-09-01
-    date_end: 
-    summary: |2-
-      Responsibilities include:
-      - Designing and delivering a comprehensive introductory Quechua language course
-      - Creating learning material, focusing on grammar, phonology, and morphosyntax
-      - Managing course assessment, student projects, and a final written exam
-  - position: Project Manager, Open Multilingual Speech
-    company_name: Mozilla Foundation
-    company_url: 'https://commonvoice.mozilla.org'
-    company_logo: ''
-    date_start: 2024-11-01
-    date_end: 2025-03-30
-    summary: |
-      Responsibilities include:
-      - Led community-driven efforts to collect and validate >15 hours of open-source speech data
-      - Localizing and adapting Mozilla Common Voice platform for Quechua languages
-      - Bridged technical/non-technical stakeholders to align to language preservation goals
-  - position: Web Community Coordinator
-    company_name: Endangered Languages Project
-    company_url: 'https://www.endangeredlanguages.com'
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: 2025-03-30
-    summary: |
-      Responsibilities include:
-      - Facilitated knowledge-sharing between researchers and native speaker communities
-      - Designed workflows to make language resources more accessible to non-technical users
-      - Led Skill Share Sessions on Project Management, Grant writing, and Funding processes
   - position: Data Consultant
     company_name: Digital Science Center (DISC), University of Innsbruck, Austria
     company_url: 'https://www.uibk.ac.at/de/disc/'
