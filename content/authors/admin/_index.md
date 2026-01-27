@@ -49,7 +49,8 @@ profiles:
 interests:
   - Semantic Web 
   - Knowledge Graphs
-  - Resposible AI, Web for all
+  - Resposible AI
+  - Web for all
   - Low-resource Languages
   - Computational Linguistics
   - Wikibase Ecosystem
@@ -140,7 +141,7 @@ work:
     company_logo: ''
     date_start: 2024-11-01
     date_end: 2025-03-30
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Led community-driven efforts to collect and validate >15 hours of open-source speech data
       - Localizing and adapting Mozilla Common Voice platform for Quechua languages
@@ -151,7 +152,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: 2025-03-30
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Facilitated knowledge-sharing between researchers and native speaker communities
       - Designed workflows to make language resources more accessible to non-technical users
