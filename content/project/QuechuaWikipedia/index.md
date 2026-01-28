@@ -1,7 +1,7 @@
 ---
 title: "Qichwa Wikipidiya [Quechua Wikipedia]"
 summary: "Towards Publishing in Quechua Language: Wikipidiya use case."
-authors: ["ayllu","elwin"]
+authors: ["me"]
 tags: ["Research", "Quechua"]
 date: "2021-02-01T00:00:00Z"
 

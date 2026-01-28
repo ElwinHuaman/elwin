@@ -1,6 +1,6 @@
 ---
 title: 'Work Experience'
-date: 2024-08-1
+date: 2024-08-01
 type: landing
 
 design:
@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      username: admin
+      username: me
     design:
       # Hugo date format
       date_format: 'January 2006'

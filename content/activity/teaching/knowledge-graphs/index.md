@@ -1,5 +1,5 @@
 ---
-title: Learn Knowledge Graphs
+title: Knowledge Graphs
 summary: Knowledge Graphs have been widely used by tech compannies like Google, Microsoft, Facebook. In this course, you will easily learn how to create your own knowledge graph.
 date: 2024-07-01
 type: docs

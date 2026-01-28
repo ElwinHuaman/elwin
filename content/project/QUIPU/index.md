@@ -1,7 +1,7 @@
 ---
 title: "QUIPU [Quechua Language Knowledge Graph]"
 summary: "With QUIPU we are trying to create a knowledge graph that can preserve as much as possible all the Quechua knowledge in a structured format."
-authors: ["admin"]
+authors: ["me"]
 tags: ["Research", "Quechua", "Knowledge Graphs"]
 date: "2019-06-27T00:00:00Z"
 

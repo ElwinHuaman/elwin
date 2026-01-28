@@ -1,7 +1,7 @@
 ---
 title: "Illariy Chaska"
 summary: "It has the goal of empower women in the Andes of Peru. We designe and knitt collection of alpaca fibre garments that might be presented at international events."
-authors: ["admin"]
+authors: ["me"]
 tags: ["Research", "Quechua", "Alpaca"]
 date: "2024-01-27T00:00:00Z"
 

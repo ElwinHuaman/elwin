@@ -17,7 +17,7 @@ sections:
       title: Skills & Hobbies
       text: 'I posses a combination of hard and soft skills that I apply to every project I undertake. Additionally, my hobbies reflect my commitment to personal growth and my proactive approach to continuous and dynamic learning.
       <br>'
-      username: admin
+      username: me
     design:
       show_skill_percentage: false
 

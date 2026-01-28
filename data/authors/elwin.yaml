@@ -1,0 +1,43 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Elwin Huaman
+  given: Elwin
+  family: Huaman
+  alternate: ''  # Example: 王伟
+  pronunciation: ''  # Example: Wáng Wěi
+  pronouns: ''
+postnominals:
+  - ''
+status:
+  icon: "☕️"
+role: Research Scientist
+bio: |
+  - 📧 Email:: _elwin_ dot _huaman_ at _hotmail_ dot _com_
+  - 📅 [Book an appointment](https://calendly.com/elwinhuaman/meeting)
+  - 💬 [Telegram](https://t.me/ElwinHuaman)
+  - 📧 [Mailinglist](https://groups.google.com/g/elwinhuaman/)
+  - 👨‍🏫 [Request an speaking engagement](https://forms.gle/J68UZL5bWMXSpcTt5)
+  - 🌐 [More about me](https://www.google.com/search?kgmid=/g/11fj545kct)
+
+affiliations:
+  - name: Innsbruck University
+    url: http://uibk.ac.at/
+
+links:
+  # - icon: at-symbol
+  #   url: mailto:alex.johnson@example.com
+  #   label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/ElwinHuaman
+  - icon: brands/instagram
+    url: https://www.instagram.com/ElwinHuaman
+  - icon: brands/github
+    url: https://github.com/ElwinHuaman
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/ElwinHuaman
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=D7AE8QsAAAAJ
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0002-2410-4977

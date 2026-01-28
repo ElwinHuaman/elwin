@@ -4,133 +4,124 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Bio
-    url: /
-    weight: 10
-  - name: Education
-    url: bio/education/
-    parent: Bio
-    weight: 11
-  - name: Experience
-    url: bio/experience/
-    parent: Bio
-    weight: 12
-  - name: Awards
-    url: bio/awards/
-    parent: Bio
-    weight: 13
-  - name: Skills
-    url: bio/skills/
-    parent: Bio
-    weight: 14
-  - name: Languages
-    url: bio/languages/
-    parent: Bio
-    weight: 15
-  - name: My story
-    url: bio/my-story/
-    parent: Bio
-    weight: 16
-  - name: My family
-    url: 'https://huamanquispe.com/us/team/'
-    parent: Bio
-    weight: 17
-# RESEARCH
-  - name: Research
-    url: /
-    weight: 20
-  - name: Publications
-    url: publication/
-    parent: Research
-    weight: 21 
-  - name: Book
-    url: research/knowledge-graph-book/
-    parent: Research
-    weight: 22
-  - name: Open theses
-    url: research/theses/
-    parent: Research
-    weight: 23
-  - name: Ideas
-    url: research/ideas/
-    parent: Research
-    weight: 24
-    # PROJECTS     
-  - name: Projects
-    # url: projects/
-    weight: 30
-  - name: All Projects
-    url: projects/
-    parent: Projects
-    weight: 10
-  - name: 2024 Quechua Voices
-    url: project/quechuavoices/
-    parent: Projects
-    weight: 32
-  - name: 2023 WikiAndes
-    url: project/wikiandes/
-    parent: Projects
-    weight: 34
-  - name: 2022 Qichwabase
-    url: project/qichwabase/
-    parent: Projects
-    weight: 35
-  - name: 2021 WordLift NG
-    url: project/wordliftng/
-    parent: Projects
-    weight: 37
-  - name: 2021 Quechua Wikipedia
-    url: project/quechuawikipedia/
-    parent: Projects
-    weight: 38
-  - name: 2018 MindLab
-    url: project/mindlab/
-    parent: Projects
-    weight: 41
-  # ACTIVITIES
-  # - name: Papers
-  #   url: /#papers
-  #   weight: 61
-  - name: Activities   
-    weight: 50
-  - name: News
-    url: post/
-    parent: Activities
-    weight: 51
-  - name: Press
-    url: activity/press/
-    parent: Activities
-    weight: 52
-  - name: Talks
-    url: event/
-    parent: Activities
-    weight: 53
-  - name: Teaching
-    url: activity/teaching/
-    parent: Activities
-    weight: 54
-  - name: Courses
-    url: course/
-    parent: Activities
-    weight: 55    
-  # CONTACT
-  - name: Contact
-    url: contact/
-    weight: 60
-  # LANGUAGE
-  - name: 🌐
-    # url: contact/
-    weight: 70
-  - name: Quechua
-    url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=qu&_x_tr_hl=en-US&_x_tr_pto=wapp'
-    parent: 🌐
-    weight: 71
-  - name: Spanish
-    url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp'
-    parent: 🌐
-    weight: 72
-  - name: English
-    url: 'https://elwin.huamanquispe.com/'
-    parent: 🌐
-    weight: 73
-    
+    - name: Bio
+      url: /
+      weight: 10
+    - name: Education
+      url: bio/education/
+      parent: Bio
+      weight: 11
+    - name: Experience
+      url: bio/experience/
+      parent: Bio
+      weight: 12
+    - name: Awards
+      url: bio/awards/
+      parent: Bio
+      weight: 13
+    - name: Skills
+      url: bio/skills/
+      parent: Bio
+      weight: 14
+    - name: Languages
+      url: bio/languages/
+      parent: Bio
+      weight: 15
+    - name: My story
+      url: bio/my-story/
+      parent: Bio
+      weight: 16
+    - name: My family
+      url: 'https://huamanquispe.com/us/team/'
+      parent: Bio
+      weight: 17
+  # RESEARCH
+    - name: Research
+      url: /
+      weight: 20
+    - name: Publications
+      url: publication/
+      parent: Research
+      weight: 21 
+    - name: Book
+      url: research/knowledge-graph-book/
+      parent: Research
+      weight: 22
+    - name: Open theses
+      url: research/theses/
+      parent: Research
+      weight: 23
+    - name: Ideas
+      url: research/ideas/
+      parent: Research
+      weight: 24
+  # PROJECTS     
+    - name: Projects
+      # url: projects/
+      weight: 30
+    - name: All Projects
+      url: project/
+      parent: Projects
+      weight: 10
+    - name: 2024 Quechua Voices
+      url: project/quechuavoices/
+      parent: Projects
+      weight: 32
+    - name: 2023 WikiAndes
+      url: project/wikiandes/
+      parent: Projects
+      weight: 34
+    - name: 2022 Qichwabase
+      url: project/qichwabase/
+      parent: Projects
+      weight: 35
+    - name: 2021 WordLift NG
+      url: project/wordliftng/
+      parent: Projects
+      weight: 37
+    - name: 2021 Quechua Wikipedia
+      url: project/quechuawikipedia/
+      parent: Projects
+      weight: 38
+    - name: 2018 MindLab
+      url: project/mindlab/
+      parent: Projects
+      weight: 41
+    # ACTIVITIES
+    # - name: Papers
+    #   url: /#papers
+    #   weight: 61
+    - name: Activities   
+      weight: 50
+    - name: Blog
+      url: post/
+      parent: Activities
+      weight: 51
+    - name: Talks (Upcoming)
+      url: event/
+      parent: Activities
+      weight: 53
+    - name: Teaching
+      url: activity/teaching/
+      parent: Activities
+      weight: 54    
+    # CONTACT
+    - name: Contact
+      url: contact/
+      weight: 60
+    # LANGUAGE
+    - name: 🌐
+      # url: contact/
+      weight: 70
+    - name: Quechua
+      url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=qu&_x_tr_hl=en-US&_x_tr_pto=wapp'
+      parent: 🌐
+      weight: 71
+    - name: Spanish
+      url: 'https://elwin-huamanquispe-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=en-US&_x_tr_pto=wapp'
+      parent: 🌐
+      weight: 72
+    - name: English
+      url: 'https://elwin.huamanquispe.com/'
+      parent: 🌐
+      weight: 73

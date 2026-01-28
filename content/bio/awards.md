@@ -14,7 +14,7 @@ sections:
     content:
       title: Awards, Achievements, and Grants
       text: 'I have demonstrated excellence and innovation in my academic, professional, and personal career, which has been recognized through various awards, achievements, and grants.'
-      username: admin
+      username: me
 
 ---
 

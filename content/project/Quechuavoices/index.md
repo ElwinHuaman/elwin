@@ -1,7 +1,7 @@
 ---
 title: "Quechua Voices"
 summary: "Our objective is to record the voices of the Quechua Collao vocabulary in various age ranges, and make the recordings available on Wikimedia Commons. So, the Quechua speakers, quechua learners, teachers, students, and ultimately scientists can build projects on top of it. For instance, the recordings can be used for the production of Open Educational Resources in mother tongues. In addition, we will run a workshop on how to contribute to Wikimedia Commons and its related projects to save minoritized languages."
-authors: ["admin"]
+authors: ["me"]
 tags: ["Quechua", "Knowledge Graphs"]
 date: "2024-05-27T00:00:00Z"
 
