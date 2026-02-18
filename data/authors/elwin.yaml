@@ -29,12 +29,12 @@ links:
   # - icon: at-symbol
   #   url: mailto:alex.johnson@example.com
   #   label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/ElwinHuaman
-  - icon: brands/instagram
-    url: https://www.instagram.com/ElwinHuaman
-  - icon: brands/github
-    url: https://github.com/ElwinHuaman
+  # - icon: brands/x
+  #   url: https://twitter.com/ElwinHuaman
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/ElwinHuaman
+  # - icon: brands/github
+  #   url: https://github.com/ElwinHuaman
   - icon: brands/linkedin
     url: https://www.linkedin.com/ElwinHuaman
   - icon: academicons/google-scholar
